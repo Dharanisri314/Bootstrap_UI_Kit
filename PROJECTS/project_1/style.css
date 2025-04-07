@@ -6,7 +6,7 @@
     color: transparent;
 }
 .banner-holder, .main-page-header{
-    background-image: url(https://i.pinimg.com/736x/21/63/04/216304ff93703c054dc13d28def31e99.jpg);
+    background-image: url("https://i.pinimg.com/736x/21/63/04/216304ff93703c054dc13d28def31e99.jpg");
     background-size: cover;
     background-position: bottom;
 }
